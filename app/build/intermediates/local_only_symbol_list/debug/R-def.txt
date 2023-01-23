@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_banner_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_android_black_24dp
+drawable ic_banner_foreground
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable weight
+id button
+id editText
+id guideline2
+id imageView
+id textView
+id textViewPounds
+layout activity_main
+mipmap ic_banner
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.UnitConverter
+xml backup_rules
+xml data_extraction_rules
